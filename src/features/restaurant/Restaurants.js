@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 
 function Restaurants() {
   const restaurants = useSelector((state) => state.restaurants);
-HTMLVideoElement
+
   return (
     <div>
       <ul>
